@@ -31,6 +31,12 @@ Next.js frontend · FastAPI backend · PostgreSQL · Redis · Docker — designe
 
 ---
 
+
+## Documentation
+
+Browse **[docs/](docs/)** for product guides, architecture notes, and design decisions (no source code).
+
+
 ## Collaborate
 
 Interested in **collaborating** (product, full-stack dev, festival business logic, UX, pilots with real events)?
@@ -42,4 +48,3 @@ We welcome people who care about sustainable small-festival economics and want t
 
 ---
 
-*Maintained by [Bazsonyi Tamás](https://github.com/erbnrabbit1987) · passion project / own initiatives*
